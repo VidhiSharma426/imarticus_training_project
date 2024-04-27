@@ -11,7 +11,7 @@ This project is aimed at predicting the likelihood of heart disease in individua
 
 ## Dataset
 
-The dataset used for this project is the [[Heart Disease dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)] from the UCI Machine Learning Repository. It contains various attributes such as age, sex, cholesterol levels, blood pressure, and ECG results, along with a target variable indicating the presence or absence of heart disease.
+The dataset used for this project is the [[Heart Disease dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)] . It contains various attributes such as age, sex, cholesterol levels, blood pressure, and BMI, along with a target variable indicating the presence or absence of heart disease.
 
 ## Methodology
 
