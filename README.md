@@ -4,7 +4,7 @@ Certainly! Here's a template for a README file tailored to a project focused on 
 
 # Heart Disease Prediction
 
-![Heart Disease]
+![Heart Disease](https://media.istockphoto.com/id/184874014/photo/heart-stethoscope-and-ekg.jpg?s=1024x1024&w=is&k=20&c=YaiIsy0ePdmsWAk9z1SC-Vd3ORjETUfaOnAbTHOxfvk=)
 ## Overview
 
 This project is aimed at predicting the likelihood of heart disease in individuals based on various health metrics and clinical parameters. Heart disease is one of the leading causes of death worldwide, and early detection plays a crucial role in its management and prevention.
