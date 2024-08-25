@@ -1,4 +1,3 @@
-Certainly! Here's a template for a README file tailored to a project focused on heart disease prediction:
 
 ---
 
